@@ -1,30 +1,22 @@
-# LeetCode Solutions — C++
+// Problem: Two Sum
+// LeetCode #1
+// Difficulty: Easy
+// Approach: Brute Force O(n²)
+// Date: July 2026
 
-Solving Blind 75 problems systematically  
-**Adeela Tariq** | CS Student @ University of Lahore
+#include <vector>
+using namespace std;
 
-## 📊 Progress
-![Problems Solved](https://img.shields.io/badge/Solved-1-blue)
-![Language](https://img.shields.io/badge/Language-C++-orange)
-
-## 📈 Problems Solved
-
-| # | Problem | Topic | Difficulty | Status |
-|---|---|---|---|---|
-| 1 | Two Sum | Arrays | Easy | ✅ |
-
-## 📂 Structure
-LeetCode-Solutions/
-├── Arrays/
-├── LinkedList/
-├── Trees/
-├── Graphs/
-└── DynamicProgramming/
-
-## 🎯 Goal
-Solve 150+ problems before internship season
-
-## 🔗 Connect
-- LinkedIn: linkedin.com/in/adeelatariq
-- Portfolio: adeelatariq.github.io
-- GitHub: github.com/Adeelatariq
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        for(int i = 0; i < nums.size(); i++) {
+            for(int j = i+1; j < nums.size(); j++) {
+                if(nums[i] + nums[j] == target) {
+                    return {i, j};
+                }
+            }
+        }
+        return {};
+    }
+};
