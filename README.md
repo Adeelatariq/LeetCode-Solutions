@@ -4,7 +4,7 @@ Solving Blind 75 problems systematically
 **Adeela Tariq** | CS Student @ University of Lahore
 
 ## 📊 Progress
-![Problems Solved](https://img.shields.io/badge/Solved-1-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-2-blue)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
 
 ## 📈 Problems Solved
@@ -12,7 +12,7 @@ Solving Blind 75 problems systematically
 | # | Problem | Topic | Difficulty | Status |
 |---|---|---|---|---|
 | 1 | Two Sum | Arrays | Easy | ✅ |
-
+| 2 | Best Time to Buy and Sell Stock | Arrays | Easy | ✅ |
 ## 📂 Structure
 LeetCode-Solutions/
 ├── Arrays/
