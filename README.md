@@ -28,4 +28,4 @@ Solve 150+ problems before internship season
 ## 🔗 Connect
 - LinkedIn: linkedin.com/in/adeelatariq
 - Portfolio: adeelatariq.github.io
-- GitHub: github.com/Adeelatariqd
+- GitHub: github.com/Adeelatariq
