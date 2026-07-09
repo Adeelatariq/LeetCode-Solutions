@@ -26,5 +26,5 @@ LeetCode-Solutions/
 Solve 150+ problems before internship season
 
 ## 🔗 Connect
-- LinkedIn: linkedin.com/in/adeelatariq
+- LinkedIn:https://www.linkedin.com/in/adeelatariq/
 - GitHub: github.com/Adeelatariq
