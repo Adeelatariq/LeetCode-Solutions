@@ -13,6 +13,7 @@ Solving Blind 75 problems systematically
 |---|---|---|---|---|
 | 1 | Two Sum | Arrays | Easy | ✅ |
 | 2 | Best Time to Buy and Sell Stock | Arrays | Easy | ✅ |
+| 3 |Contains Duplicates | Arrays | Easy | ✅ |
 ## 📂 Structure
 LeetCode-Solutions/
 ├── Arrays/
