@@ -4,7 +4,7 @@ Solving Blind 75 problems systematically
 **Adeela Tariq** | CS Student @ University of Lahore
 
 ## 📊 Progress
-![Problems Solved](https://img.shields.io/badge/Solved-6-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-7-blue)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
 
 ## 📈 Problems Solved
@@ -17,6 +17,7 @@ Solving Blind 75 problems systematically
 | 4 | Product of Array Except Self | Arrays | Medium | ✅ |
 | 5 | Maximum Subarray | Arrays | Medium | ✅ |
 | 6 | Maximum Product Subarray | Arrays | Medium | ✅ |
+| 7 | Find Minimum in Rotated Sorted Array | Arrays | Medium | ✅ |
 ## 📂 Structure
 LeetCode-Solutions/
 ├── Arrays/
