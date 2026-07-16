@@ -30,7 +30,7 @@ LeetCode-Solutions/
 └── DynamicProgramming/
 
 ## 🎯 Goal
-Solve 150+ problems before internship season
+Solve 150+ problems 
 
 ## 🔗 Connect
 - LinkedIn:https://www.linkedin.com/in/adeelatariq/
