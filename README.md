@@ -4,7 +4,7 @@ Solving Blind 75 problems systematically
 **Adeela Tariq** | CS Student @ University of Lahore
 
 ## 📊 Progress
-![Problems Solved](https://img.shields.io/badge/Solved-9-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-10-blue)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
 
 ## 📈 Problems Solved
@@ -19,7 +19,8 @@ Solving Blind 75 problems systematically
 | 6 | Maximum Product Subarray | Arrays | Medium | ✅ |
 | 7 | Find Minimum in Rotated Sorted Array | Arrays | Medium | ✅ |
 | 8 | Search in Rotated Sorted Array | Arrays | Medium | ✅ |
-| 9 | 3Sum | Arrays | Medium | ✅ 
+| 9 | 3Sum | Arrays | Medium | ✅ |
+| 10 | Container With Most Water | Arrays | Medium | ✅ |
 ## 📂 Structure
 LeetCode-Solutions/
 ├── Arrays/
