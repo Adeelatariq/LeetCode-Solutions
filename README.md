@@ -4,7 +4,7 @@ Solving Blind 75 problems systematically
 **Adeela Tariq** | CS Student @ University of Lahore
 
 ## 📊 Progress
-![Problems Solved](https://img.shields.io/badge/Solved-12-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-13-blue)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
 
 ## 📈 Problems Solved
@@ -23,6 +23,7 @@ Solving Blind 75 problems systematically
 | 10 | Container With Most Water | Arrays | Medium | ✅ |
 | 11 | Reverse Linked List | Linked List | Easy | ✅ |
 | 12 | Merge Two Sorted Lists | Linked List | Easy | ✅ |
+| 13 | Reorder List | Linked List | Medium | ✅|
 ## 📂 Structure
 LeetCode-Solutions/
 ├── Arrays/
