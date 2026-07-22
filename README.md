@@ -25,7 +25,7 @@ Solving Blind 75 problems systematically
 | 12 | Merge Two Sorted Lists | Linked List | Easy | ✅ |
 | 13 | Reorder List | Linked List | Medium | ✅|
 | 14 | remove nth node | Linked List | Medium | ✅|
-| 15 | Linked List Cycle	|	Easy|	✅ |
+| 15 | Linked List Cycle	| Linked List	|Easy	 | ✅
 ## 📂 Structure
 LeetCode-Solutions/
 ├── Arrays/
