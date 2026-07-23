@@ -4,7 +4,7 @@ Solving Blind 75 problems systematically
 **Adeela Tariq** | CS Student @ University of Lahore
 
 ## 📊 Progress
-![Problems Solved](https://img.shields.io/badge/Solved-15-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-16-blue)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
 
 ## 📈 Problems Solved
@@ -25,7 +25,8 @@ Solving Blind 75 problems systematically
 | 12 | Merge Two Sorted Lists | Linked List | Easy | ✅ |
 | 13 | Reorder List | Linked List | Medium | ✅|
 | 14 | remove nth node | Linked List | Medium | ✅|
-| 15 | Linked List Cycle	| Linked List	|Easy	 | ✅
+| 15 | Linked List Cycle	| Linked List	|Easy	 | ✅|
+| 16 | Merge k Sorted Lists | Linked List | hard | ✅ |
 ## 📂 Structure
 LeetCode-Solutions/
 ├── Arrays/
