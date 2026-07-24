@@ -4,7 +4,7 @@ Solving Blind 75 problems systematically
 **Adeela Tariq** | CS Student @ University of Lahore
 
 ## 📊 Progress
-![Problems Solved](https://img.shields.io/badge/Solved-16-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-17-blue)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
 
 ## 📈 Problems Solved
@@ -27,6 +27,7 @@ Solving Blind 75 problems systematically
 | 14 | remove nth node | Linked List | Medium | ✅|
 | 15 | Linked List Cycle	| Linked List	|Easy	 | ✅|
 | 16 | Merge k Sorted Lists | Linked List | hard | ✅ |
+| 17 | Maximum depth of binary tree | tree | easy | ✅ |
 ## 📂 Structure
 LeetCode-Solutions/
 ├── Arrays/
