@@ -4,7 +4,7 @@ Solving Blind 75 problems systematically
 **Adeela Tariq** | CS Student @ University of Lahore
 
 ## 📊 Progress
-![Problems Solved](https://img.shields.io/badge/Solved-21-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-22-blue)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
 
 ## 📈 Problems Solved
@@ -32,6 +32,7 @@ Solving Blind 75 problems systematically
 | 19 | invert binary tree | tree | easy | ✅ |
 | 20 | level order traversal  | tree | medium | ✅ |
 | 21 | Valid binary tree  | tree | medium | ✅ |
+| 22 | kth smallest element in bst  | tree | medium | ✅ |
 ## 📂 Structure
 LeetCode-Solutions/
 ├── Arrays/
