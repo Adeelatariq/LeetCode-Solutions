@@ -4,7 +4,7 @@ Solving Blind 75 problems systematically
 **Adeela Tariq** | CS Student @ University of Lahore
 
 ## 📊 Progress
-![Problems Solved](https://img.shields.io/badge/Solved-24-blue)
+![Problems Solved](https://img.shields.io/badge/Solved-25-blue)
 ![Language](https://img.shields.io/badge/Language-C++-orange)
 
 ## 📈 Problems Solved
@@ -35,6 +35,7 @@ Solving Blind 75 problems systematically
 | 22 | kth smallest element in bst  | tree | medium | ✅ |
 | 23 | lowest common ancestor in bst  | tree | medium | ✅ |
 | 24 | tire prefix tree implementation | tree | medium | ✅ |
+| 25 | number of islands | tree | medium | ✅ |
 ## 📂 Structure
 LeetCode-Solutions/
 ├── Arrays/
